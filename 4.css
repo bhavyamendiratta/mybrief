@@ -1095,6 +1095,8 @@
 .ion-lock-combination:before { content: "\f4d4"; }
 
 .ion-locked:before { content: "\f200"; }
+.ion-locked:before { content: "\f200"; }\
+..ion-locked:before { content: "\f259"; }
 
 .ion-log-in:before { content: "\f29e"; }
 
