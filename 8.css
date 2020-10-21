@@ -17,32 +17,6 @@
   background: #2eca7f;
 }
 
-.lnk:hover,
-.button:hover {
-  color: #2eca7f;
-}
-
-.lnk:hover .ion,
-.button:hover .ion {
-  color: #2eca7f;
-}
-
-.lnk:hover .arrow:before,
-.button:hover .arrow:before,
-.lnk:hover .arrow:after,
-.button:hover .arrow:after {
-  background: #2eca7f;
-}
-
-input:focus,
-textarea:focus,
-button:focus {
-  border-bottom: 1px solid #2eca7f;
-}
-
-button:hover {
-  border-bottom: 1px solid #2eca7f;
-}
 
 .header .top-menu ul li:hover a,
 .header .top-menu ul li.active a {
